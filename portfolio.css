@@ -1,0 +1,45 @@
+nav{
+    display: flex;
+    margin-left: 55%;
+    gap: 3%;
+}
+
+li{
+    width: 30%;
+    list-style: none;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    margin-left: 2%;
+    margin-top: 10%;
+    
+}
+
+
+body{
+background-image: url(image\ 1.png);
+background-size: 1550px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+aside{
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-bottom: 2%;
+    
+}
+
+footer{
+    height: 100px;
+    padding-left: 80%;
+    padding-top: 3%;
+    color: white;
+}
+
+h4{
+    margin:8%;
+    margin-top: 10%;
+}

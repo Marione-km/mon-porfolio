@@ -1,0 +1,55 @@
+nav{
+    display: flex;
+    margin-left: 55%;
+    gap: 3%;
+}
+
+li{
+    width: 30%;
+    list-style: none;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+background-image: url(image\ 1.png);
+background-size: 1550px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+/*.card-body{
+    background-color: aqua;
+    transform-style: flat;
+    box-shadow: 10cap;
+}
+*/
+main{
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.shadow-none:hover,.shadow-sm:hover,.shadow-lg:hover{
+background-image: url(image8.png);
+background-size: 570px;
+transform: scale(1.2);
+transition: transform 0.6s;
+
+color: white;
+}
+
+.position-absolute:hover{
+transition: transform 0.3s;
+transform: scale(1.2);
+}
+
+.col-md-2{
+    margin-top: 14%;
+}
+
+footer{
+    height: 100px;
+    padding-left: 80%;
+    padding-top: 3%;
+    color: white;
+}
